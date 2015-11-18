@@ -8,7 +8,7 @@ package percolation
  * To change this template use File | Settings | File Templates.
  */
 
-object Percolation{
+object Percolator{
 
   // given an N-by-N matrix of open sites, return an N-by-N matrix
   // of sites reachable from the top
